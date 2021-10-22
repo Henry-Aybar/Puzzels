@@ -1,0 +1,16 @@
+D:\CodingDojo\CSharp\fundamentals\Puzzels\bin\Debug\net5.0\Puzzels.exe
+D:\CodingDojo\CSharp\fundamentals\Puzzels\bin\Debug\net5.0\Puzzels.deps.json
+D:\CodingDojo\CSharp\fundamentals\Puzzels\bin\Debug\net5.0\Puzzels.runtimeconfig.json
+D:\CodingDojo\CSharp\fundamentals\Puzzels\bin\Debug\net5.0\Puzzels.runtimeconfig.dev.json
+D:\CodingDojo\CSharp\fundamentals\Puzzels\bin\Debug\net5.0\Puzzels.dll
+D:\CodingDojo\CSharp\fundamentals\Puzzels\bin\Debug\net5.0\ref\Puzzels.dll
+D:\CodingDojo\CSharp\fundamentals\Puzzels\bin\Debug\net5.0\Puzzels.pdb
+D:\CodingDojo\CSharp\fundamentals\Puzzels\obj\Debug\net5.0\Puzzels.csproj.AssemblyReference.cache
+D:\CodingDojo\CSharp\fundamentals\Puzzels\obj\Debug\net5.0\Puzzels.GeneratedMSBuildEditorConfig.editorconfig
+D:\CodingDojo\CSharp\fundamentals\Puzzels\obj\Debug\net5.0\Puzzels.AssemblyInfoInputs.cache
+D:\CodingDojo\CSharp\fundamentals\Puzzels\obj\Debug\net5.0\Puzzels.AssemblyInfo.cs
+D:\CodingDojo\CSharp\fundamentals\Puzzels\obj\Debug\net5.0\Puzzels.csproj.CoreCompileInputs.cache
+D:\CodingDojo\CSharp\fundamentals\Puzzels\obj\Debug\net5.0\Puzzels.dll
+D:\CodingDojo\CSharp\fundamentals\Puzzels\obj\Debug\net5.0\ref\Puzzels.dll
+D:\CodingDojo\CSharp\fundamentals\Puzzels\obj\Debug\net5.0\Puzzels.pdb
+D:\CodingDojo\CSharp\fundamentals\Puzzels\obj\Debug\net5.0\Puzzels.genruntimeconfig.cache
